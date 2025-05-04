@@ -21,7 +21,6 @@ Este repositorio automatiza el aprovisionamiento y la configuración de una infr
 ## Estructura del Proyecto
 
 ```
-
 ├── lambda_python/                   # Código Python para funciones AWS Lambda
 │   ├── read_lambda.py
 │   └── seed_lambda.py
