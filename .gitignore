@@ -1,0 +1,9 @@
+keys/
+.terraform
+.terraform.lock.hcl
+*.ini
+*.tfstate
+*.tfstate.*
+*.zip
+*.tfplan
+*.bak
